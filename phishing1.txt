@@ -1,0 +1,4 @@
+From: paypal-security@gmail.com
+Received-SPF: fail
+Authentication-Results: dkim=fail
+Reply-To: scammer@evil.com
